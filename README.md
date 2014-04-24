@@ -41,7 +41,7 @@ The following standards are strongly based on the below three articles:
 
 ### Recommended style guidelines
 
-For Python codes, use of the [following PEP8 standard.](http://legacy.python.org/dev/peps/pep-0008/)
+For Python, follow [PEP8 standard.](http://legacy.python.org/dev/peps/pep-0008/)
 For R use [this standard.](http://stat405.had.co.nz/r-style.html)</p>
 
 ### R specific
