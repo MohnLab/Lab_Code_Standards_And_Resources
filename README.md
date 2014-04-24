@@ -67,6 +67,8 @@ You can save that information at the end of your final script, or send it direct
 
 [Software carpentry](http://software-carpentry.org/index.html) has very clear and easy video tutorials on Unix, Python, and version control
 
+**Useful text editors and integrated development environments:**
+
 **Notepad++**
 
 This Windows program is very useful to edit codes because it will tell you visually using colors if you have errors in indentation and closing brackets/parenthesis/brace. Download it [here](http://www.notepad-plus-plus.org/)
