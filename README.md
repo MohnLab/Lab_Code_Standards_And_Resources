@@ -23,7 +23,7 @@ The following standards are strongly based on the below three articles:
     - Separate names with underscores instead of dots (`variable_1` not `variable.1`). One can also use `CamelCase`.
     - Avoid writing long sections of code, separate the code into mutiple blocks (each doing a specific task) 
     - Use meaningful file names and the correct extensions (`.R` not `.r`)
-    - Surround binary operators with whitespaces (`x = y` not `x=y`)
+    - Surround binary operators (=, ==, >, <, etc) with whitespaces (`x = y` not `x=y`)
     - Use spaces always after a comma, but never before a comma (`colour = (green, red, blue)` not `colour = (green,red,blue)` or `colour = (green , red , blue)`)
 2.	Do not "reinvent the wheel"
     - Check if others have come up with a verified solution to your problem before writing your own scripts
@@ -78,4 +78,4 @@ Rough equivelent of Notepad++ on MAC OSX X. Download it [here](https://itunes.ap
 
 **Rstudio**
 
-An IDE for developing R scripts and interacting with the R statistical environment. Download it [here](https://www.rstudio.com)
+An integrated development environment for developing R scripts and interacting with the R statistical environment. Download it [here](https://www.rstudio.com)
