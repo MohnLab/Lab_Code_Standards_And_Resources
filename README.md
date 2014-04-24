@@ -7,11 +7,11 @@ Computers are powerful tools for researcher in the life sciences, however scient
 
 The following standards are strongly based on the below three articles:
 
-* Best Practices for Scientific Computing [doi:10.1371/journal.pbio.1001745]  (http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)
+* Best Practices for Scientific Computing [\[doi:10.1371/journal.pbio.1001745\]]  (http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)
 
-* Ten Simple Rules for Reproducible Computational Research [doi:10.1371/journal.pcbi.1003285] (http://www.ploscollections.org/article/browse/issue/info%3Adoi%2F10.1371%2Fissue.pcol.v03.i01)</p>
+* Ten Simple Rules for Reproducible Computational Research [\[doi:10.1371/journal.pcbi.1003285\]] (http://www.ploscollections.org/article/browse/issue/info%3Adoi%2F10.1371%2Fissue.pcol.v03.i01)
 
-* Ten Simple Rules for the Open Development of Scientific Software [doi:10.1371/journal.pcbi.1002802] (http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002802)
+* Ten Simple Rules for the Open Development of Scientific Software [\[doi:10.1371/journal.pcbi.1002802\]] (http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002802)
 
 **Guidelines**
 
