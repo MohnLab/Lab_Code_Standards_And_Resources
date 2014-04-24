@@ -61,6 +61,8 @@ You can save that information at the end of your final script, or send it direct
 
 Create and use a [Github] (https://github.com/) repository to store your working code and keep track its changes. This is helpful for reproducing past results, restore functions after changes, and is essential if you are developing software as a team.
 
+**Note:** Never push raw data into your repository, only test data and your scripts
+
 ### Resources
 
 [Software carpentry](http://software-carpentry.org/index.html) has very clear and easy video tutorials on Unix, Python, and version control
@@ -74,3 +76,7 @@ This Windows program is very useful to edit codes because it will tell you visua
 **TextWrangler**
 
 Rough equivelent of Notepad++ on MAC OSX X. Download it [here](https://itunes.apple.com/ca/app/textwrangler/id404010395?mt=12) 
+
+**Rstudio**
+
+An IDE for developing R scripts and interacting with the R statistical environment. Download it [here](https://www.rstudio.com)
