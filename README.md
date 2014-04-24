@@ -20,11 +20,11 @@ The following standards are strongly based on the below three articles:
     - Variables should be nouns where as functions should be verbs
     - Be consistent with your indentation. Use spaces or tabs but not both
     - Use informative comments that explain what you are doing but do not "state the obvious"
-    - Separate names with underscores instead of dots (`variable_1` not ~~`variable.1`~~). One can also use `CamelCase`.
+    - Separate names with underscores instead of dots (`variable_1` not `variable.1`). One can also use `CamelCase`.
     - Avoid writing long sections of code, separate the code into mutiple blocks (each doing a specific task) 
-    - Use meaningful file names and the correct extensions (`.R` not ~~`.r`~~)
-    - Surround binary operators with whitespaces (`x = y` not ~~`x=y`~~)
-    - Use spaces always after a comma, but never before a comma (`colour = (green, red, blue)` not ~~`colour = (green,red,blue)`~~ or ~~`colour = (green , red , blue)`~~)
+    - Use meaningful file names and the correct extensions (`.R` not `.r`)
+    - Surround binary operators with whitespaces (`x = y` not `x=y`)
+    - Use spaces always after a comma, but never before a comma (`colour = (green, red, blue)` not `colour = (green,red,blue)` or `colour = (green , red , blue)`)
 2.	Do not "reinvent the wheel"
     - Check if others have come up with a verified solution to your problem before writing your own scripts
 3.	Use standard, well known extensions/packages instead of obscures ones, standard packages are more likely to be tested and maintained
