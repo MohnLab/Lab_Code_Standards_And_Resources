@@ -39,7 +39,7 @@ The following standards are strongly based on the below three articles:
 8.	Backup your data
     - Store at minimum your raw data and the scripts used to generate the analysis results
 
-### Recommended style guidelines
+### Recommended style guides
 
 For Python, follow [PEP8 standard.](http://legacy.python.org/dev/peps/pep-0008/)
 For R use [this standard.](http://stat405.had.co.nz/r-style.html)</p>
