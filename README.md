@@ -3,11 +3,9 @@ Mohn Lab Best practices for writing bioinformatics scripts
 
 **Rationale**
 
-To create reproducible, sound, and clear computational research.</p>
- 
-Computers are powerful tools in research but scientist are not usually trained in software development tools though they can benefit from already established best practices. These practices are oriented for making the research easier to reproduce, and scientifically sound.</p> 
+Computers are powerful tools for researcher in the life sciences, however scientists are not usually trained in software development. To create reproducible, sound, and clear computational research, scientists should follow already established best practices. These practices are oriented towards making the research easier to reproduce and scientifically sound.
 
-These standards are strongly based on these three articles:
+The following standards are strongly based on the below three articles:
 
 * Best Practices for Scientific Computing [doi:10.1371/journal.pbio.1001745]  (http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)
 
@@ -18,11 +16,11 @@ These standards are strongly based on these three articles:
 **Guidelines**
 
 1. Write programs for people, not computers
-    - Clarity should be emphasized
-    - Use informative variable names, avoid using names of existing functions (e.g. mean) or key words (e.g. print)
+    - Clarity and readability should be emphasized
+    - Use informative variable names, avoid using names of existing functions (e.g. print) and key words (e.g. import)
     - Variables should be nouns, functions should be verbs
-    - Be consistent with indentation. Use spaces or tabs but not both
-    - Use informative comments, avoid in line comments
+    - Be consistent with your indentation. Use spaces or tabs but not both
+    - Use informative comments that explain what you are doing but do not state the obvious.
     - Separate names with underscores instead of dots (variable_1 Yes, variable.1 No). CamelCase is also okay.
     - Avoid long lines of code, separate in multiple lines for clarity
     - Use meaningful file names and the correct extensions (.r no, .R yes)
