@@ -34,7 +34,7 @@ The following standards are strongly based on the below three articles:
     - Use assertion functions, and internal tests. Do not expect the user to give you the right input
     - Test your scripts with example data, and try to include positive and negative standards. Save the test files
 6.	Optimize software only after it works correctly. Work on code readability first, then your algorithm, then optimize.
-7.	Document your codes design and purpose, not its mechanics
+7.	Document your code's design and purpose, not its mechanics
 8.	Backup your data! Store at minimum your raw data and the scripts used to generate the analysis results
 
 ### Recommended style guides
@@ -58,7 +58,7 @@ You can save that information at the end of your final script, or send it direct
 
 ### Version Control
 
-Create and use a [Github](https://github.com/) repository to store your working code and keep track its changes. This is helpful for reproducing past results, restore lost function after drastic code changes, and is essential if you are developing software as a team.
+Create and use a [Github](https://github.com/) repository to store your working code and keep track its changes. This is helpful for reproducing past results, restoring lost function after drastic code changes, and is essential if you are developing software as a team.
 
 **Note:** Never push your raw data into a repository, only push test data and your scripts!
 
