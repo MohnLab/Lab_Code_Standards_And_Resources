@@ -48,7 +48,7 @@ Save scripts and sessions. If revising old results, open the saved session inste
 
 At the end of your scripts add the following lines to obtain the version of R you are using and the versions of the libraries used:
 
-    Version
+    Version()
     sessionInfo()
     
 You can save that information at the end of your final script, or send it directly to a file using:
